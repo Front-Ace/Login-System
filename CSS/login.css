@@ -1,0 +1,21 @@
+.login-main{
+    background-color: #24353f;
+}
+h1{
+    color: #17a2b8;
+}
+.login-box{
+    border: 2px solid;
+    box-shadow: 5px 5px 50px 5px rgb(0, 0, 0);
+}
+a{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration:underline;
+}
+nav{
+    background-color: #24353f;
+    border: 2px solid;
+    box-shadow: 5px 5px 50px 5px rgb(0, 0, 0);
+}
